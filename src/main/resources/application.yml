@@ -1,0 +1,11 @@
+server:
+  port: 9090
+  
+spring:
+  application:
+    name: ashokit-rest-api  
+
+app: 
+ messages:
+    welcomeMsg: Welcome To JRTP
+    greetMsg: Good Morning
